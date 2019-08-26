@@ -1,7 +1,4 @@
 from game.guess import GuessGame
-import sys
-
-print(f"Python version: {sys.version}")
 
 game = GuessGame()
 while True:
