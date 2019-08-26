@@ -1,4 +1,9 @@
-venv/
-.DS_Store
 .idea/
+venv/
+_mac/
 **/__pycache__/**
+codestyles/
+inspection/
+
+.DS_Store
+*.xml
